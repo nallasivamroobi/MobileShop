@@ -5,27 +5,21 @@ import javax.print.DocFlavor.STRING;
 public class PhoneInfo {
 
 	private void phoneName() {
-		// TODO Auto-generated method stub
-
-		System.out.println("Honor 9 Lite");
+				System.out.println("Honor 9 Lite");
 	}
 	private void phoneMieiNum() {
-		// TODO Auto-generated method stub
-		System.out.println("hono002563857");
+			System.out.println("hono002563857");
 
 	}
 	
 	private void camera() {
-		// TODO Auto-generated .od stub
-  System.out.println("Front camera 10 MP;  Back Camerqa: 25 MP ");
+		  System.out.println("Front camera 10 MP;  Back Camerqa: 25 MP ");
 	}
-private void storage() {
-	// TODO Auto-generated method stub
+private void storage() {	
 System.out.println("Internal memory=16 GB; External memory: upto 64 GB");
 
 }
-private void osName() {
-	// TODO Auto-generated method stub
+private void osName() {	
 System.out.println("OS: Android");
 }
 
