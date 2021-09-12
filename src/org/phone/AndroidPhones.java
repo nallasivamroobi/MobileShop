@@ -11,7 +11,13 @@ public class AndroidPhones {
 	
 	public void AppoPhones()
 	{	
-		System.out.println("Appo phones");
+		System.out.println("Appo ANDROID MOBILE phones are now available ");
+	}
+	
+	public void nokiaPhones()
+	{
+		System.out.println("Nokia is owned by microsift");
+		System.out.println("Nokia android phones");		
 	}
 	
 }
